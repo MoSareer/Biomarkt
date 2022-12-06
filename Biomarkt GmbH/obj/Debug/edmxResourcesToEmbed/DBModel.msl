@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TBBioStoreContainer" CdmEntityContainer="DBBio">
+    <EntitySetMapping Name="Produktes">
+      <EntityTypeMapping TypeName="TBBio.Produkte">
+        <MappingFragment StoreEntitySet="Produkte">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Marke" ColumnName="Marke" />
+          <ScalarProperty Name="Kategorie" ColumnName="Kategorie" />
+          <ScalarProperty Name="Preis" ColumnName="Preis" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

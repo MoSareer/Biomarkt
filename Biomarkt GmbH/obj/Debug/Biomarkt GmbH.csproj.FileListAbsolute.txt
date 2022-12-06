@@ -1,0 +1,31 @@
+C:\Users\CC-Student\Documents\Visual Studio 2022\Biomarkt GmbH\Biomarkt GmbH\bin\Debug\Biomarkt GmbH.exe.config
+C:\Users\CC-Student\Documents\Visual Studio 2022\Biomarkt GmbH\Biomarkt GmbH\bin\Debug\Biomarkt GmbH.exe
+C:\Users\CC-Student\Documents\Visual Studio 2022\Biomarkt GmbH\Biomarkt GmbH\bin\Debug\Biomarkt GmbH.pdb
+C:\Users\CC-Student\Documents\Visual Studio 2022\Biomarkt GmbH\Biomarkt GmbH\obj\Debug\Biomarkt GmbH.csproj.AssemblyReference.cache
+C:\Users\CC-Student\Documents\Visual Studio 2022\Biomarkt GmbH\Biomarkt GmbH\obj\Debug\Biomarkt GmbH.csproj.SuggestedBindingRedirects.cache
+C:\Users\CC-Student\Documents\Visual Studio 2022\Biomarkt GmbH\Biomarkt GmbH\obj\Debug\Biomarkt_GmbH.LoadingScreen.resources
+C:\Users\CC-Student\Documents\Visual Studio 2022\Biomarkt GmbH\Biomarkt GmbH\obj\Debug\Biomarkt_GmbH.Properties.Resources.resources
+C:\Users\CC-Student\Documents\Visual Studio 2022\Biomarkt GmbH\Biomarkt GmbH\obj\Debug\Biomarkt GmbH.csproj.GenerateResource.cache
+C:\Users\CC-Student\Documents\Visual Studio 2022\Biomarkt GmbH\Biomarkt GmbH\obj\Debug\Biomarkt GmbH.csproj.CoreCompileInputs.cache
+C:\Users\CC-Student\Documents\Visual Studio 2022\Biomarkt GmbH\Biomarkt GmbH\obj\Debug\Biomarkt GmbH.exe
+C:\Users\CC-Student\Documents\Visual Studio 2022\Biomarkt GmbH\Biomarkt GmbH\obj\Debug\Biomarkt GmbH.pdb
+C:\Users\CC-Student\Desktop\Biomarkt_GmbH\Biomarkt GmbH\bin\Debug\Biomarkt GmbH.exe.config
+C:\Users\CC-Student\Desktop\Biomarkt_GmbH\Biomarkt GmbH\bin\Debug\Biomarkt GmbH.exe
+C:\Users\CC-Student\Desktop\Biomarkt_GmbH\Biomarkt GmbH\bin\Debug\Biomarkt GmbH.pdb
+C:\Users\CC-Student\Desktop\Biomarkt_GmbH\Biomarkt GmbH\obj\Debug\Biomarkt GmbH.csproj.AssemblyReference.cache
+C:\Users\CC-Student\Desktop\Biomarkt_GmbH\Biomarkt GmbH\obj\Debug\Biomarkt GmbH.csproj.SuggestedBindingRedirects.cache
+C:\Users\CC-Student\Desktop\Biomarkt_GmbH\Biomarkt GmbH\obj\Debug\Biomarkt_GmbH.LoadingScreen.resources
+C:\Users\CC-Student\Desktop\Biomarkt_GmbH\Biomarkt GmbH\obj\Debug\Biomarkt_GmbH.Properties.Resources.resources
+C:\Users\CC-Student\Desktop\Biomarkt_GmbH\Biomarkt GmbH\obj\Debug\Biomarkt GmbH.csproj.GenerateResource.cache
+C:\Users\CC-Student\Desktop\Biomarkt_GmbH\Biomarkt GmbH\obj\Debug\Biomarkt GmbH.csproj.CoreCompileInputs.cache
+C:\Users\CC-Student\Desktop\Biomarkt_GmbH\Biomarkt GmbH\obj\Debug\Biomarkt GmbH.exe
+C:\Users\CC-Student\Desktop\Biomarkt_GmbH\Biomarkt GmbH\obj\Debug\Biomarkt GmbH.pdb
+C:\Users\CC-Student\Desktop\Biomarkt_GmbH\Biomarkt GmbH\obj\Debug\Biomarkt_GmbH.MainMenuScreen.resources
+C:\Users\CC-Student\Desktop\Biomarkt_GmbH\Biomarkt GmbH\obj\Debug\Biomarkt_GmbH.ProduktScreen.resources
+C:\Users\CC-Student\Desktop\Biomarkt_GmbH\Biomarkt GmbH\bin\Debug\EntityFramework.dll
+C:\Users\CC-Student\Desktop\Biomarkt_GmbH\Biomarkt GmbH\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CC-Student\Desktop\Biomarkt_GmbH\Biomarkt GmbH\bin\Debug\EntityFramework.xml
+C:\Users\CC-Student\Desktop\Biomarkt_GmbH\Biomarkt GmbH\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CC-Student\Desktop\Biomarkt_GmbH\Biomarkt GmbH\obj\Debug\Biomarkt GmbH.csproj.CopyComplete
+C:\Users\CC-Student\Desktop\Biomarkt_GmbH\Biomarkt GmbH\bin\Debug\Biomarkt_GmbH.mdf
+C:\Users\CC-Student\Desktop\Biomarkt_GmbH\Biomarkt GmbH\bin\Debug\Biomarkt_GmbH_log.ldf
